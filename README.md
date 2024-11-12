@@ -1,7 +1,7 @@
 
 ---
 
-# XTASY 2020 🎉
+# XTASY 2022 🎉
 
 Welcome to **XTASY 2020**, the official website for our college Arts Day event. This project captures the spirit and excitement of the annual Arts Day, showcasing events, schedules, and vibrant designs to engage students, faculty, and the community.
 
