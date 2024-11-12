@@ -65,5 +65,3 @@ If you have ideas or suggestions to improve **XTASY 2020**, feel free to open an
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adapt this README to add any additional details or to suit your specific project style! Let me know if you'd like help with anything else for this project.
